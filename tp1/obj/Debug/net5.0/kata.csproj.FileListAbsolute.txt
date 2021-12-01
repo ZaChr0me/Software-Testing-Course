@@ -17,3 +17,11 @@ D:\cours\testing\kata\obj\Debug\net5.0\kata.dll
 D:\cours\testing\kata\obj\Debug\net5.0\ref\kata.dll
 D:\cours\testing\kata\obj\Debug\net5.0\kata.pdb
 D:\cours\testing\kata\obj\Debug\net5.0\kata.genruntimeconfig.cache
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.csproj.AssemblyReference.cache
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.GeneratedMSBuildEditorConfig.editorconfig
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.AssemblyInfoInputs.cache
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.AssemblyInfo.cs
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.csproj.CoreCompileInputs.cache
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.dll
+d:\cours\testing\tp1\obj\Debug\net5.0\ref\kata.dll
+d:\cours\testing\tp1\obj\Debug\net5.0\kata.pdb

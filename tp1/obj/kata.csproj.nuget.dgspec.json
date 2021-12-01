@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\cours\\testing\\kata\\kata.csproj": {}
+    "D:\\cours\\testing\\tp1\\kata.csproj": {}
   },
   "projects": {
-    "d:\\cours\\testing\\kata\\kata.csproj": {
+    "D:\\cours\\testing\\tp1\\kata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\cours\\testing\\kata\\kata.csproj",
+        "projectUniqueName": "D:\\cours\\testing\\tp1\\kata.csproj",
         "projectName": "kata",
-        "projectPath": "d:\\cours\\testing\\kata\\kata.csproj",
+        "projectPath": "D:\\cours\\testing\\tp1\\kata.csproj",
         "packagesPath": "C:\\Users\\zenon\\.nuget\\packages\\",
-        "outputPath": "d:\\cours\\testing\\kata\\obj\\",
+        "outputPath": "D:\\cours\\testing\\tp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zenon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "System": {
               "target": "Package",
               "version": "[4.1.311.2, )"
@@ -55,6 +59,10 @@
               "version": "[4.3.0, )"
             },
             "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
               "target": "Package",
               "version": "[2.4.1, )"
             }
